@@ -1,6 +1,6 @@
 
 $${\textsf{\color{#EEAE4D} **Cal** or **calvin** - **8teen** }}$$
-$${\textsf{\color{#EEAE4D} **5teen- dniuf**  }}$$
+$${\textsf{\color{#EEAE4D} **no dni. i block freely.**  }}$$
 <p align="center">
   <img width="99" height="56" alt="tumblr_0b420328043b58b80e5fd5c89dd8da0c_a8b061b3_100" src="https://github.com/user-attachments/assets/664db7ae-87f5-4005-8e1c-e98984c326fb" />
 
