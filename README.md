@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=''+And+we+are+the+Army+of+Two+!+''&center=true&width=380&height=50"
+ <img src="https://readme-typing-svg.demolab.com/?lines=''+And+we+are+the+Army+of+Two+!+''&center=true&width=380&height=50"
        alt="Centered Typing SVG">
 
 <p align="center">
