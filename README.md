@@ -1,25 +1,8 @@
-<div id="header" align="center">
-
-<img height="459" alt="Image" align="left" src="https://file.garden/akKbU9_l8hKnlTIX/IMG_4403.PNG" />
-
-<div align="left"> ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ </div>
-<div align="left"> ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ </div>
 <p align="center">
- $\small\color{#9d856b}{\textsf{⏒ ry or cali}}$ $\small\color{#967761}{\textsf{any}}$ $\small\color{#332f2c}{\textsf{prns}}$<br>
- 
-<br><img height="55" alt="Image" align="center" src="https://file.garden/akKbU9_l8hKnlTIX/IMG_4534.PNG" />
-<img height="55" alt="Image" align="center" src="https://file.garden/akKbU9_l8hKnlTIX/IMG_4535.PNG" />
-
-<div align="center"> ㅤ </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=550F08&width=435&lines=%22And+we+are+the+Army+of+Two+!%22" alt="Typing SVG" /></a>
+   <p align="center">
+ 
 <p align="center">
- $\small\color{#845b4d}{\textsf{═╪ dni:}}$ $\small\color{#9a7e6b}{\textsf{cal}}$ $\small\color{#aa907e}{\textsf{yumes,}}$
-$\small\color{#b59e8f}{\textsf{-17}}$
- <br>  $\small\color{#845b4d}{\textsf{   w2i}}$ $\small\color{#775347}{\textsf{ask}}$ $\small\color{#5f4339}{\textsf{for}}$
-$\small\color{#45312a}{\textsf{c*h}}$
-<div id="header" align="center">
+<img width="586" height="448" alt="Photoroom_20260721_081938" src="https://github.com/user-attachments/assets/84e20c2c-fea0-483f-ab6a-b3679b9681b9" />
 
-
- ㅤㅤㅤ <a href= "https://desirwagone.carrd.co/"> carrd</a> ㅤ $${\color{#b5a088}✰}$$ ㅤ <a href= "https://ry2high4god.atabook.org/">atabook</a> ㅤ $${\color{#9d856b}✰}$$ ㅤ <a href= "https://guns.lol/ryukoo">guns.lol</a> ㅤ
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jqode7xqefnace3lid3dnqo6cq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=524847&interchange=true&profanity=true&hide_remaster=true&bar_color=8a6460&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jqode7xqefnace3lid3dnqo6cq&redirect=true)
+  $${\textsf{\color{#550F08} art by @camrafilmsvideo on tumblr}}$$
