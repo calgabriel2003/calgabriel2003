@@ -10,10 +10,10 @@ ${{\color{#0F213B}\texttt{teen}}}$
 ${{\color{#0F213B}\texttt{⠀☆}}}$
 ${{\color{#}\texttt{ㅤ꒱}}}$<br>
 <p align="center">
-${{\color{#0F213B}\texttt{minors}}}$
+${{\color{#0F213B}\texttt{15-}}}$
 ${{\color{#0F213B}\texttt{iwc⠀　}}}$
 ${{\color{#0F213B}\texttt{w2i⠀　}}}$
-${{\color{#0F213B}\texttt{c+h⠀　}}}$
-${{\color{#0F213B}\texttt{i}}}$
-${{\color{#0F213B}\texttt{free}}}$
-${{\color{#0F213B}\texttt{block}}}$<br>
+${{\color{#0F213B}\texttt{　}}}$
+${{\color{#0F213B}\texttt{w2i}}}$
+${{\color{#0F213B}\texttt{mostly}}}$
+${{\color{#0F213B}\texttt{offtab}}}$<br>
