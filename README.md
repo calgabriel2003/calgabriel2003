@@ -3,8 +3,8 @@
 <p align="center">
 <p align="center">
 ${{\color{#}\texttt{꒰ㅤ}}}$
-${{\color{#383838}\texttt{she⠀,}}}$
-${{\color{#494949}\texttt{⠀heㅤ}}}$
+${{\color{#383838}\texttt{he ,}}}$
+${{\color{#494949}\texttt{⠀him}}}$
 <img align="center" 
 ${{\color{#5A5858}\texttt{ㅤ9}}}$
 ${{\color{#666666}\texttt{teen}}}$
