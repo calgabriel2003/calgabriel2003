@@ -2,7 +2,7 @@
 <img width="498" height="355" alt="zero-day-0day" src="https://github.com/user-attachments/assets/b00cb0bf-6865-4bcf-8043-b0a4f1478855" />
 <p align="center">
 <p align="center">
-${{\color{#0F213B}\texttt{he ,}}}$
+${{\color{#0F213B}\texttt{he   ◞  }}}$
 ${{\color{#0F213B}\texttt{⠀him}}}$
 <img align="center" 
 ${{\color{#0F213B}\texttt{ㅤ8}}}$
