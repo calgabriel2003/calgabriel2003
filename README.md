@@ -3,7 +3,7 @@
 <p align="center">
 <p align="center">
 ${{\color{#0F213B}\texttt{he    ◞  }}}$
-${{\color{#0F213B}\texttt{⠀him}}}$
+${{\color{#B29977}\texttt{⠀him}}}$
 <img align="center" 
 
 ${{\color{#0F213B}\texttt{ㅤ8}}}$
