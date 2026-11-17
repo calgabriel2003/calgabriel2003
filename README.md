@@ -3,14 +3,14 @@
 <p align="center">
 <p align="center">
 ${{\color{#996530}\texttt{he    ◞  }}}$
-${{\color{#8B6C4B}\texttt{⠀him}}}$
+${{\color{#996530}\texttt{⠀him}}}$
 <img align="center" 
 
 ${{\color{#996530}\texttt{ㅤ8}}}$
-${{\color{#0F213B}\texttt{teen}}}$
+${{\color{#996530}\texttt{teen}}}$
 <p align="center">
-${{\color{#0F213B}\texttt{15-}}}$
-${{\color{#0F213B}\texttt{iwc⠀　}}}$
-${{\color{#0F213B}\texttt{w2i}}}$
-${{\color{#0F213B}\texttt{mostly}}}$
-${{\color{#0F213B}\texttt{offtab}}}$<br>
+${{\color{#996530}\texttt{15-}}}$
+${{\color{#996530}\texttt{iwc⠀　}}}$
+${{\color{#996530}\texttt{w2i}}}$
+${{\color{#996530}\texttt{mostly}}}$
+${{\color{#996530}\texttt{offtab}}}$<br>
