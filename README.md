@@ -5,13 +5,14 @@
 ${{\color{#0F213B}\texttt{he    ◞  }}}$
 ${{\color{#0F213B}\texttt{⠀him}}}$
 <img align="center" 
+
 ${{\color{#0F213B}\texttt{ㅤ8}}}$
 ${{\color{#0F213B}\texttt{teen}}}$
 ${{\color{#}\texttt{ㅤ꒱}}}$<br>
 <p align="center">
 ${{\color{#0F213B}\texttt{15-}}}$
 ${{\color{#0F213B}\texttt{iwc⠀　}}}$
-${{\color{#0F213B}\texttt{w2i⠀　}}}$
+${{\color{#0F213B}\texttt{　}}}$
 ${{\color{#0F213B}\texttt{　}}}$
 ${{\color{#0F213B}\texttt{w2i}}}$
 ${{\color{#0F213B}\texttt{mostly}}}$
