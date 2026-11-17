@@ -1,11 +1,11 @@
 <p align="center">
 <img width="498" height="355" alt="zero-day-0day" src="https://github.com/user-attachments/assets/b00cb0bf-6865-4bcf-8043-b0a4f1478855" />
 <p align="center">
-${{\color{#9B4013}\texttt{adult ◞   }}}$
+${{\color{#9B4013}\texttt{18 ◞   }}}$
 ${{\color{#7D5233}\texttt{usually  }}}$
 ${{\color{#66604C}\texttt{offtabㅤ}}}$
 ${{\color{#66604C}\texttt{w2i !ㅤ}}}$
-${{\color{#4D6F66}\texttt{minors  }}}$
+${{\color{#4D6F66}\texttt{-15 dni  }}}$
 ${{\color{#238892}\texttt{iwc}}}$<br>
 ${{\color{#9B4013}\texttt{c+h  }}}$
 ${{\color{#9B4013}\texttt{is  }}}$
